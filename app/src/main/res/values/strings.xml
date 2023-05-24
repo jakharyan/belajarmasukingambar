@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">belajarmasukingambar</string>
+    <string name="submit">Submit</string>
+    <string name="hint">Masukan Teks </string>
+</resources>
